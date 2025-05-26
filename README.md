@@ -26,9 +26,9 @@ An Advanced Excel-based **interactive healthcare dashboard** that visualizes dis
 
 ## 📸 Dashboard Screenshot
 
-![Disease Dashboard](./Screenshot%202025-05-25%20144921.png)
+![Disease Dashboard](dashboard.png)
 
 ---
 
-## 📂 File Structure
+
 
